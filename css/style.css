@@ -1,0 +1,116 @@
+body {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 15px;
+	color: #111;
+	line-height: 1.5;
+	padding: 0;
+	margin: 0;
+	background-color: #eee;
+}
+
+h1 {
+	font-size: 40px;
+	padding-top: 0;
+	padding-bottom: 26px;
+
+}
+
+/* Global*/
+.container {
+	width: 60%;
+	max-width: 900px;
+	margin: auto;
+	overflow: hidden;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background: rgb(70,70,75);
+	color: white;
+	font-weight: bold;
+	padding-top: 20px; 
+	min-height: 70px;
+	border-bottom: #0ff 5px solid;
+}
+
+header a{
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+
+header li {
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+header li a:hover{
+	color: #ff0;
+}
+
+header #branding{
+	float: left;
+}
+
+header #branding h1{
+	margin: 0;
+}
+
+header nav{
+	float: right;
+	margin-top: 22px; 
+	padding-bottom: 20px;
+}
+
+header .highlight, header .current a{
+	color: #ff0;
+}
+
+
+
+
+#showcase {
+	min-height: 400px;
+	background:url(https://images.pexels.com/photos/545063/pexels-photo-545063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	text-align: center;
+	margin:0;
+    background-attachment: fixed;
+	background-position: center;
+    background-size: cover;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
